@@ -1,0 +1,20 @@
+table{
+	padding: auto;
+	margin:auto;
+    background: lightblue;
+    
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1322164974/photo/womans-hand-using-smart-phone-with-technological-backgrounds.jpg?s=612x612&w=is&k=20&c=CL94U7VChubn55-3i6_tXtDqNvR5UrapM00enZHAHOA=);
+    background-size: cover;
+}
+.center
+{
+   margin-left: 50%;
+    size: 20px;
+    width: 30px;
+    height: 30px;
+   
+
+
+}

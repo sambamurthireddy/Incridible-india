@@ -1,0 +1,41 @@
+/* Abhishek */
+.clasour-1{   
+    height: 90vh;   
+    background-image: url(https://images.pexels.com/photos/12446112/pexels-photo-12446112.jpeg?auto=compress&cs=tinysrgb&w=1500);
+    background-size: cover;
+}
+.clasour-2{   
+    height: 90vh;   
+    background-image: url(https://images.pexels.com/photos/6776756/pexels-photo-6776756.jpeg?auto=compress&cs=tinysrgb&w=1500);
+    background-size: cover;
+}
+.clasour-3{   
+    height: 90vh;   
+    background-image: url(https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=1500);
+    background-size: cover;
+}
+.tourism{
+    height: 75vh;
+    padding-top: 4%;
+    background-color: rgb(220, 238, 232);
+}
+.about{
+    height: 73vh;
+    margin-top: 5%;
+}
+.more-info{
+    /* height: 0vh; */
+    background-color: rgb(68, 49, 85);
+    padding-top: 5%;
+    color: aliceblue;
+}
+
+footer{
+    height: 7vh;
+    background-image: linear-gradient(rgb(230, 115, 115),rgb(160, 248, 160) );
+    text-align: center;
+    /* color: azure; */
+    font-size: large;
+}
+
+/* Abhishek */
